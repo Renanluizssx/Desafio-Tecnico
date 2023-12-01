@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App bg-dark vh-100 text-light overflow-hidden">
       <Row className="justify-content-center align-items-center h-100">
-        <Col xs={4}>
+        <Col xs={2}>
           <div>
             <h1 className="text-center">Bem vindo</h1>
             <Form className="text-center">
